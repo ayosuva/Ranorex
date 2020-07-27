@@ -5,5 +5,5 @@
 *.jpg
 *.rxuser
 *.pref
-*/bin/
-*/obj/
+*bin/
+*obj/
